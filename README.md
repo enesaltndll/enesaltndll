@@ -15,7 +15,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-Enes_Altındal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
      <a href="https://www.instagram.com/enesaltndl/">
-      <img src="https://img.shields.io/badge/Instagram-enesaltndl-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram" />
+      <img src="https://img.shields.io/badge/Instagram-enesaltndl-D14836?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram" />
   </p>
 </div>
 
