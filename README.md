@@ -11,7 +11,7 @@
     <a href="mailto:enesjr5757@gmail.com">
       <img src="https://img.shields.io/badge/Email-enesjr5757%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://linkedin.com/in/[LİNKEDİN-USER]">
+    <a href="https://www.linkedin.com/in/enes-altindal-07826b242/">
       <img src="https://img.shields.io/badge/LinkedIn-Enes_Altındal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
